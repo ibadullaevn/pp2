@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Week 2\Task 4\bin\Debug\Task 4.exe.config
+C:\Users\Asus\Desktop\Week 2\Task 4\bin\Debug\Task 4.exe
+C:\Users\Asus\Desktop\Week 2\Task 4\bin\Debug\Task 4.pdb
+C:\Users\Asus\Desktop\Week 2\Task 4\obj\Debug\Task 4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Week 2\Task 4\obj\Debug\Task 4.exe
+C:\Users\Asus\Desktop\Week 2\Task 4\obj\Debug\Task 4.pdb
